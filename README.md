@@ -45,7 +45,7 @@
 ## Developers
 ### Founder : 🛠 | Meteorite Studio
 ### Coder : 💻 | R04BLO
-### UI Designer : 💻🛠 | akiragacu
+### UI Designer : 🎨🖌 | akiragacu
 
 ‎‎ 
 
