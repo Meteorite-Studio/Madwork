@@ -19,6 +19,13 @@
 
 ‎ 
 
+## Introduction
+### Introducing **Madwork UI Plugin Lite**
+#### Save you a lot of time working on GUI Part. We provide you with a free Modern and simple-looking GUI for your game!
+#### If you want to save a lot of time working on GUI. You can buy Madwork UI Plugin Pro+ all components come with code!
+#### Need a health bar for your game? No worry our Health bar comes with code and you will only customize it!
+‎‎ 
+
 ‎ 
 
 ## Versions of Madwork UI (Oldest - Newest | Format)
@@ -30,22 +37,23 @@
 
 ## 🎯 Updates & Changes
 ## 0.0.1 | 07/26/2023 - 07/29/2023
-#### 🔵 Added : Health GUI | (⚙💻Coded/💻Customizable)
-#### 🔵 Added : Modern Button | (💻Customizable)
-#### 🔵 Added : Modern Window | (💻Customizable) | 🛠⚙ This feature is not released yet, will be released in next update! 🛠⚙
-#### 🔵 Added : (UI) Bring to front | 🛠⚙ This feature is not released yet, will be released in next update! 🛠⚙
-#### 🔵 Added : (UI) Bring to back | 🛠⚙ This feature is not released yet, will be released in next update! 🛠⚙
+#### 🔵 Added: Health GUI | (⚙💻Coded/💻Customizable)
+#### 🔵 Added: Modern Button | (💻Customizable)
+#### 🔵 Added: Modern Window | (💻Customizable) | 🛠⚙ This feature is not released yet, will be released in the next update! 🛠⚙
+#### 🔵 Added: (UI) Bring to front | 🛠⚙ This feature is not released yet, it will be released in the next update! 🛠⚙
+#### 🔵 Added: (UI) Bring to back | 🛠⚙ This feature is not released yet, it will be released in the next update! 🛠⚙
 #### 🔴 Changes: 🛡 The plugin will not be available in ROBLOX Marketplace except if Developers decide otherwise. | (Cannot use when outdated!).
-#### 🔴 Changes : 🛡 Plugin will not be available If outdated.
+#### 🔴 Changes: 🛡 Plugin will not be available If outdated.
 
 ‎‎ 
 
 ‎ 
 
 ## Developers
-### Plugin Coder : 🛠 | Meteorite Studio
-### UI Coder : 💻 | R04BLO
-### UI Designer : 🎨🖌 | akiragacu
+### Founder : 🛠 | Meteorite Studio
+#### UI Coder : 💻 | R04BLO
+##### UI Designer : 🎨🖌 | akiragacu
+###### ⚠ Note that all the developers shown here are workers of Meteorite Studio ⚠
 
 ‎‎ 
 
@@ -55,8 +63,9 @@
 ### Sneak Peeks for update 0.0.2 LITE
 ### 🟦 Modern Window - Blue Theme
 #### Modern window is not included with code, even the top navigation is not included with code.
+##### Feel free to change it as you want, we provide this Plugin to save people time for making GUI
 ![image](https://github.com/Meteorite-Studio/Madwork/assets/137842100/6212fcf6-0ef7-4d02-b8bf-2cab60c14090)
-### 🟧 Send the screen gui to back or front
+### 🟧 Send the screen gui to the back or front
 ![image](https://github.com/Meteorite-Studio/Madwork/assets/137842100/2a80edce-c8c8-4dc4-bb22-67742f34ca04)
 
 ‎‎ 
