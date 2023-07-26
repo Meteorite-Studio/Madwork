@@ -1,4 +1,4 @@
-# Madwork UI V0.0.1
+# (Roblox Plugin) Madwork UI 0.0.1
 ### Importing the plugin tutorial
 > Download the [Madwork.rbmx here](https://shorturl.at/atRS1) (UPDATED)
 > 
@@ -36,5 +36,13 @@
 ### UI Designer : 💻🛠 | akiragacu
 
 ## 👁‍🗨 Sneak Peeks
+### Sneak Peeks for update 0.0.2 LITE
 ### 🟦 Modern Window - Blue Theme
+#### Modern window is not included with code, even the top navigation is not included with code. 
 ![image](https://github.com/Meteorite-Studio/Madwork/assets/137842100/6212fcf6-0ef7-4d02-b8bf-2cab60c14090)
+### 🟧 Send the screen gui to back or front
+![image](https://github.com/Meteorite-Studio/Madwork/assets/137842100/2a80edce-c8c8-4dc4-bb22-67742f34ca04)
+
+## 💬 Developers Discussion
+### Madwork UI Plugin PRO+, will release in August 10, 2023 (⚙💻All PRO+ Components comes with code!)
+### Madwork UI Lite, will be received longer update in August 28, 2023
