@@ -13,11 +13,20 @@
 >
 > ![image](https://github.com/Meteorite-Studio/Madwork/assets/137842100/fd4c928a-e88e-4c9a-96b9-91aa2ce7c951)
 >
-> Then paste the Madwork.rbmx and it will load up      
+> Then paste the Madwork.rbmx and it will load up
+
+‎‎ 
+
+‎ 
+
+‎ 
 
 ## Versions of Madwork UI (Oldest - Newest | Format)
 ### Version 0.0.1 LITE | 07/26/2023 - 07/29/2023 : [Download](https://shorturl.at/atRS1) or [Quick Setup]()
 
+‎‎ 
+
+‎ 
 
 ## 🎯 Updates & Changes
 ## 0.0.1 | 07/26/2023 - 07/29/2023
@@ -29,19 +38,30 @@
 #### 🔴 Changes: 🛡 The plugin will not be available in ROBLOX Marketplace except if Developers decide otherwise. | (Cannot use when outdated!).
 #### 🔴 Changes : 🛡 Plugin will not be available If outdated.
 
+‎‎ 
+
+‎ 
 
 ## Developers
 ### Founder : 🛠 | Meteorite Studio
 ### Coder : 💻 | R04BLO
 ### UI Designer : 💻🛠 | akiragacu
 
+‎‎ 
+
+‎ 
+
 ## 👁‍🗨 Sneak Peeks
 ### Sneak Peeks for update 0.0.2 LITE
-### 🟦 Modern Window - Blue Theme
+### 🟦 Modern Window - Blue Theme (`#`)
 #### Modern window is not included with code, even the top navigation is not included with code. 
 ![image](https://github.com/Meteorite-Studio/Madwork/assets/137842100/6212fcf6-0ef7-4d02-b8bf-2cab60c14090)
 ### 🟧 Send the screen gui to back or front
 ![image](https://github.com/Meteorite-Studio/Madwork/assets/137842100/2a80edce-c8c8-4dc4-bb22-67742f34ca04)
+
+‎‎ 
+
+‎ 
 
 ## 💬 Developers Discussion
 ### Madwork UI Plugin PRO+, will release in August 10, 2023 (⚙💻All PRO+ Components comes with code!)
