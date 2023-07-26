@@ -5,7 +5,7 @@
 > ![image](https://github.com/Meteorite-Studio/Madwork/assets/137842100/6d7c6e91-26fa-4ef9-bf75-a27f3301cd48)
 > 
 > Copy the Madwork.rbmx to
-> 'C:\Users\YourUsername\AppData\Local\Roblox\Plugins'
+> `C:\Users\YourUsername\AppData\Local\Roblox\Plugins`
 >
 > Or
 >
@@ -24,7 +24,8 @@
 #### 🔵 Added : Health GUI | (⚙💻Coded/💻Customizable)
 #### 🔵 Added : Modern Button | (💻Customizable)
 #### 🔵 Added : Modern Window | (💻Customizable) | 🛠⚙ This feature is not released yet, will be released in next update! 🛠⚙
-#### 🔵 Added : Currency Display | (💻Customizable) |  🛠⚙ This feature is not released yet, will be released in next update! 🛠⚙
+#### 🔵 Added : (UI) Bring to front | 🛠⚙ This feature is not released yet, will be released in next update! 🛠⚙
+#### 🔵 Added : (UI) Bring to back | 🛠⚙ This feature is not released yet, will be released in next update! 🛠⚙
 #### 🔴 Changes : 🛡 Plugin will not be available in ROBLOX Marketplace except If Developers has decide. | (Prevent you to keep updated).
 #### 🔴 Changes : 🛡 Plugin will not be available If outdated.
 
