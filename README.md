@@ -19,17 +19,17 @@
 
 ‎ 
 
-## Introduction
-### Introducing **Madwork UI Plugin Lite**
-#### Save you a lot of time working on GUI Part. We provide you with a free Modern and simple-looking GUI for your game!
-#### If you want to save a lot of time working on GUI. You can buy Madwork UI Plugin Pro+ all components come with code!
-#### Need a health bar for your game? No worry our Health bar comes with code and you will only customize it!
+## 👋 Introduction
+### 🖐 Introducing **Madwork UI Plugin Lite**
+#### ⏰ Save you a lot of time working on the GUI Part. We provide you with a free Modern and simple-looking GUI for your game!
+#### 🌟 If you want to save time working on GUI. You can buy Madwork UI Plugin Pro+ all components come with code!
+#### ❤ Need a health bar for your game? Don't worry; our Health bar comes with a code and you will only customize it!
 ‎‎ 
 
 ‎ 
 
-## Versions of Madwork UI (Oldest - Newest | Format)
-### Version 0.0.1 LITE | 07/26/2023 - 07/29/2023 : [Download](https://shorturl.at/atRS1)
+## 📅 Versions of Madwork UI (Oldest - Newest | Format)
+### 📊 Version 0.0.1 LITE | 07/26/2023 - 07/29/2023 : [Download](https://shorturl.at/atRS1)
 
 ‎‎ 
 
@@ -49,10 +49,10 @@
 
 ‎ 
 
-## Developers
-### Founder : 🛠 | Meteorite Studio
-#### UI Coder : 💻 | R04BLO
-##### UI Designer : 🎨🖌 | akiragacu
+## 🔧 Developers
+### 🎓 Founder : 🛠 | Meteorite Studio
+#### 💻 UI Coder : 💻 | R04BLO
+##### 🎨💻 UI Designer : 🎨🖌 | akiragacu
 ###### ⚠ Note that all the developers shown here are workers of Meteorite Studio ⚠
 
 ‎‎ 
