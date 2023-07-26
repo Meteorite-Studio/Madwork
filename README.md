@@ -13,8 +13,7 @@
 >
 > ![image](https://github.com/Meteorite-Studio/Madwork/assets/137842100/fd4c928a-e88e-4c9a-96b9-91aa2ce7c951)
 >
-> And paste the Madwork.rbmx and it will load up
-
+> And paste the Madwork.rbmx and it will load up      
 
 ## Versions of Madwork UI (Oldest - Newest || Format)
 ### Version 0.0.1 LITE | 07/26/2023 - 07/29/2023 : [Download](https://shorturl.at/atRS1)
@@ -34,3 +33,7 @@
 ### Founder : 🛠 | Meteorite Studio
 ### Coder : 💻 | R04BLO
 ### UI Designer : 💻🛠 | akiragacu
+
+## 👁‍🗨 Sneak Peeks
+### 🟦 Modern Window - Blue Theme
+![image](https://github.com/Meteorite-Studio/Madwork/assets/137842100/6212fcf6-0ef7-4d02-b8bf-2cab60c14090)
