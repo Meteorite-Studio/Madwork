@@ -13,10 +13,10 @@
 >
 > ![image](https://github.com/Meteorite-Studio/Madwork/assets/137842100/fd4c928a-e88e-4c9a-96b9-91aa2ce7c951)
 >
-> And paste the Madwork.rbmx and it will load up      
+> Then paste the Madwork.rbmx and it will load up      
 
-## Versions of Madwork UI (Oldest - Newest || Format)
-### Version 0.0.1 LITE | 07/26/2023 - 07/29/2023 : [Download](https://shorturl.at/atRS1)
+## Versions of Madwork UI (Oldest - Newest | Format)
+### Version 0.0.1 LITE | 07/26/2023 - 07/29/2023 : [Download](https://shorturl.at/atRS1) or [Quick Setup]()
 
 
 ## 🎯 Updates & Changes
@@ -26,7 +26,7 @@
 #### 🔵 Added : Modern Window | (💻Customizable) | 🛠⚙ This feature is not released yet, will be released in next update! 🛠⚙
 #### 🔵 Added : (UI) Bring to front | 🛠⚙ This feature is not released yet, will be released in next update! 🛠⚙
 #### 🔵 Added : (UI) Bring to back | 🛠⚙ This feature is not released yet, will be released in next update! 🛠⚙
-#### 🔴 Changes : 🛡 Plugin will not be available in ROBLOX Marketplace except If Developers has decide. | (Prevent you to keep updated).
+#### 🔴 Changes: 🛡 The plugin will not be available in ROBLOX Marketplace except if Developers decide otherwise. | (Cannot use when outdated!).
 #### 🔴 Changes : 🛡 Plugin will not be available If outdated.
 
 
