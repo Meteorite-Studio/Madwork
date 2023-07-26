@@ -1,8 +1,11 @@
 # Madwork UI V0.0.1
 ### Importing the plugin tutorial
-![image](https://github.com/Meteorite-Studio/Madwork/assets/137842100/6d7c6e91-26fa-4ef9-bf75-a27f3301cd48)
+> Download the [Madwork.rbmx here]()
+> 
+> ![image](https://github.com/Meteorite-Studio/Madwork/assets/137842100/6d7c6e91-26fa-4ef9-bf75-a27f3301cd48)
+> 
 > Copy the Madwork.rbmx to
-> C:\Users\YourUsername\AppData\Local\Roblox\Plugins
+> 'C:\Users\YourUsername\AppData\Local\Roblox\Plugins'
 >
 > Or
 >
