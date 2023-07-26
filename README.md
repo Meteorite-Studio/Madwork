@@ -24,9 +24,9 @@
 ## 0.0.1 | 07/26/2023 - 07/29/2023
 #### 🔵 Added : Health GUI | (⚙💻Coded/💻Customizable)
 #### 🔵 Added : Modern Button | (💻Customizable)
-#### 🔵 Added : Modern Window | (💻Customizable) | 🛠⚙ This feature is not released yet, will be released in next update! 🛠⚙
+#### 🔵 Added : Modern Window | (⚙Has own 2 functions CODED/💻Customizable) | 🛠⚙ This feature is not released yet, will be released in next update! 🛠⚙
 #### 🔵 Added : Currency Display | (💻Customizable) |  🛠⚙ This feature is not released yet, will be released in next update! 🛠⚙
-#### 🔴 Changes : 🛡 Plugin will not be available in ROBLOX Marketplace still depends on the developers. | (Prevent you to keep updated).
+#### 🔴 Changes : 🛡 Plugin will not be available in ROBLOX Marketplace except If Developers has decide. | (Prevent you to keep updated).
 #### 🔴 Changes : 🛡 Plugin will not be available If outdated.
 
 
@@ -34,6 +34,3 @@
 ### Founder : 🛠 | Meteorite Studio
 ### Coder : 💻 | R04BLO
 ### UI Designer : 💻🛠 | akiragacu
-
-## Developers Features Plan 
-#### 🟢 Plan : Datastore Service | (⚙💻Coded/💻Customizable) | Note that Datastore Service has thier own documentation If added!!
