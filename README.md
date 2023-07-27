@@ -2,16 +2,16 @@
 ### Importing the plugin tutorial
 > Download the [Madwork.rbmx here](https://shorturl.at/atRS1) (UPDATED)
 > 
-> ![image](https://github.com/Meteorite-Studio/Madwork/assets/137842100/6d7c6e91-26fa-4ef9-bf75-a27f3301cd48)
+> ![image](https://github.com/Meteorite-Studio/Madwork/assets/137842100/23829ac4-2e4c-4f94-a0e4-6348d6725689)
 > 
 > Copy the Madwork.rbmx to
 > `C:\Users\YourUsername\AppData\Local\Roblox\Plugins`
 >
 > Or
 >
-> ![image](https://github.com/Meteorite-Studio/Madwork/assets/137842100/82ee68a4-03c1-4a36-9ac4-bd940a5e587f)
+> ![image](https://github.com/Meteorite-Studio/Madwork/assets/137842100/a7ad0d80-d64d-48e5-af72-679368d64589)
 >
-> ![image](https://github.com/Meteorite-Studio/Madwork/assets/137842100/fd4c928a-e88e-4c9a-96b9-91aa2ce7c951)
+> ![image](https://github.com/Meteorite-Studio/Madwork/assets/137842100/aee0f85f-2a39-43bd-9c0f-7c49e7e9f032)
 >
 > Then paste the Madwork.rbmx and it will load up
 
@@ -63,7 +63,7 @@
 ### 🟦 Modern Window - Blue Theme
 #### Modern window is not included with code, even the top navigation is not included with code.
 ##### Feel free to change it as you want, we provide this Plugin to save people time for making GUI
-![image](https://github.com/Meteorite-Studio/Madwork/assets/137842100/6212fcf6-0ef7-4d02-b8bf-2cab60c14090)
+![image](https://github.com/Meteorite-Studio/Madwork/assets/137842100/b2aeccb5-f98b-4528-a1c9-e9acdefd1131)
 ### 🟧 Send the screen gui to the back or front
 ![Screenshot 2023-07-27 112537](https://github.com/Meteorite-Studio/Madwork/assets/137842100/70a86a10-63d9-41bb-b6bc-a8bef7ae8b35)
 
