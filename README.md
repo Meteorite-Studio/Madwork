@@ -28,7 +28,7 @@
 ‎ 
 
 ## 📅 Versions of Madwork UI (Oldest - Newest | Format)
-### 📊 Version 0.0.1 LITE | 07/26/2023 - 07/29/2023 : [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Meteorite-Studio/Madwork/blob/main/Releases/Madwork.rbxmx)
+### 📊 Version 0.0.1 LITE | 07/26/2023 - 07/29/2023 : [Download](https://shorturl.at/atRS1)
 
 ‎‎ 
 
