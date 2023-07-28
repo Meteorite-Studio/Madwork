@@ -29,6 +29,13 @@
 
 ## 📅 Versions of Madwork UI (Oldest - Newest | Format)
 ### 📊 Version 0.0.1 LITE | 07/26/2023 - 07/29/2023 : [Download](https://shorturl.at/atRS1)
+‎‎ 
+‎‎ 
+‎‎
+‎‎ 
+‎‎ 
+## 📊 BETA Version
+### 📊 Version 0.0.2 BETA | [NOT AVAILABLE YET]()
 
 ‎‎ 
 
