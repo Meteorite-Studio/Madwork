@@ -1,4 +1,10 @@
 # (Roblox Plugin) Madwork UI 0.0.1
+## ℹ Announcement
+### 📅 0.0.2 VERSION WILL BE RELEASE TOMORROW at 6:00 AM (UTC+8)
+‎‎ 
+
+‎ 
+
 ### Importing the plugin tutorial
 > Download the [Madwork.rbmx here](https://shorturl.at/atRS1) (UPDATED)
 > 
@@ -27,15 +33,15 @@
 
 ‎ 
 
-## 📅 Versions of Madwork UI (Oldest - Newest | Format)
+## 📅 RELEASE Versions of Madwork UI (Oldest - Newest | Format)
 ### 📊 Version 0.0.1 LITE | 07/26/2023 - 07/29/2023 : [Download](https://shorturl.at/atRS1)
+### 📊 Version 0.0.2 LITE | NO EXPIRY  : [WILL BE RELEASED TOMORROW AT 6:00 AM at (UTC+8)](https://bit.ly/3Qes2b)
+
 ‎‎ 
-‎‎ 
-‎‎
-‎‎ 
+
+‎ 
 ‎‎ 
 ## 📊 BETA Version
-### 📊 Version 0.0.2 BETA | [NOT AVAILABLE YET]()
 
 ‎‎ 
 
@@ -90,3 +96,5 @@
 ## 🌐💬 QnA
 ### Q: How do I upgrade to PRO+
 #### A: When PRO+ is released you can buy them in ROBLOX Marketplace, and we will link it to our README
+### Q: Why is there an expiry in 0.0.1 LITE
+#### A: Since 0.0.1 is not been fully released so there is an expiry to keep you updated when we release the 0.0.2 VERSION, and also 0.0.1 LITE only has 3 features, not like 0.0.2 Version has 7 features to use
