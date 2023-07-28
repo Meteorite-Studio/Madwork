@@ -1,12 +1,12 @@
 # (Roblox Plugin) Madwork UI 0.0.1
 ## ℹ Announcement
-### 📅 0.0.2 VERSION WILL BE RELEASE TOMORROW at 6:00 AM (UTC+8)
+### 📅 0.0.2 VERSION IS RELEASED NOW!!!
 ‎‎ 
 
 ‎ 
 
 ### Importing the plugin tutorial
-> Download the [Madwork.rbmx here](https://shorturl.at/atRS1) (UPDATED)
+> Download the [Download Madwork.rbmx](https://bit.ly/3Qes2bO) (UPDATED)
 > 
 > ![image](https://github.com/Meteorite-Studio/Madwork/assets/137842100/23829ac4-2e4c-4f94-a0e4-6348d6725689)
 > 
@@ -34,7 +34,7 @@
 
 ## 📅 RELEASE Versions of Madwork UI (Oldest - Newest | Format)
 ### 📊 Version 0.0.1 LITE | 07/26/2023 - 07/29/2023 : [Download](https://shorturl.at/atRS1)
-### 📊 Version 0.0.2 LITE | NO EXPIRY  : [WILL BE RELEASED TOMORROW AT 6:00 AM at (UTC+8)](https://bit.ly/3Qes2bO)
+### 📊 Version 0.0.2 LITE | NO EXPIRY  : [Download](https://bit.ly/3Qes2bO)
 
 ‎‎ 
 
