@@ -27,7 +27,6 @@
 ## 👋 Introduction
 ### 🖐 Introducing **Madwork UI Plugin Lite**
 #### ⏰ Save you a lot of time working on the GUI Part. We provide you with a free Modern and simple-looking GUI for your game!
-#### 🌟 If you want to save time working on GUI. You can buy Madwork UI Plugin Pro+ all components come with code!
 #### ❤ Need a health bar for your game? Don't worry; our Health bar comes with a code and you will only customize it!
 ‎‎ 
 
@@ -85,7 +84,6 @@
 ‎ 
 
 ## 💬 Developers Discussion
-### 📎 Madwork UI Plugin PRO+, will release in August 10, 2023 (⚙💻All PRO+ Components comes with code!)
 ### 📎 Madwork UI Lite, will be received a longer update on August 28, 2023
 ### 📎 Madwork UI Lite, will be available globally on July 31, 2023
 ### 📎 We might add a Normal Loading Screen and an Advanced loading screen to save you more time, also we might add default leader stats and leader stats with DataStore
@@ -94,7 +92,5 @@
 ‎ 
 
 ## 🌐💬 QnA
-### Q: How do I upgrade to PRO+
-#### A: When PRO+ is released you can buy them in ROBLOX Marketplace, and we will link it to our README
 ### Q: Why is there an expiry in 0.0.1 LITE
 #### A: Since 0.0.1 is not been fully released so there is an expiry to keep you updated when we release the 0.0.2 VERSION, and also 0.0.1 LITE only has 3 features, not like 0.0.2 Version has 7 features to use
