@@ -8,20 +8,24 @@ body, h1, h2, p, ul, li {
 header {
     background-color: rgb(0, 28, 48);
     color: #fff;
-    padding: 20px;
+    padding: 20px 0;
     text-align: center;
+}
+
+header h1 {
+    font-size: 36px;
 }
 
 /* Apply styles to the navigation */
 nav {
     background-color: #333;
-    padding: 10px;
 }
 
 nav ul {
     list-style: none;
     display: flex;
     justify-content: center;
+    padding: 10px 0;
 }
 
 nav ul li {
@@ -31,6 +35,8 @@ nav ul li {
 nav ul li a {
     color: #fff;
     text-decoration: none;
+    font-size: 18px;
+    transition: all 0.3s ease;
 }
 
 nav ul li a:hover {
@@ -40,15 +46,18 @@ nav ul li a:hover {
 /* Apply styles to the main content */
 main {
     padding: 20px;
-    color: #fff;
+    color: #333;
 }
 
 main h2 {
-    border-bottom: 1px solid #fff;
+    font-size: 28px;
+    border-bottom: 1px solid #ccc;
     padding-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 main p, main li {
+    font-size: 18px;
     margin-bottom: 10px;
 }
 
@@ -56,6 +65,17 @@ main p, main li {
 footer {
     background-color: rgb(0, 28, 48);
     color: #fff;
-    padding: 10px;
+    padding: 10px 0;
     text-align: center;
+}
+
+footer p {
+    font-size: 14px;
+}
+
+/* Create a container class for centering the content */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
 }
